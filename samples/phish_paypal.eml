@@ -1,0 +1,15 @@
+From: PayPal Security <service@paypa1-secure.xyz>
+Reply-To: paypal.help.desk@gmail.com
+To: diya14.aravind@gmail.com
+Subject: Action required: your account has been limited
+Date: Sun, 11 Oct 2026 02:44:00 +0000
+Authentication-Results: mx.google.com; spf=fail smtp.mailfrom=paypa1-secure.xyz; dkim=none; dmarc=fail header.from=paypa1-secure.xyz
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<p>Dear customer,</p>
+<p>We noticed unauthorized activity on your account. Your account has been limited and
+will be permanently closed within 24 hours unless you verify your information.</p>
+<p><a href="http://paypa1-secure.xyz/webscr/login?verify=account">https://www.paypal.com/myaccount/verify</a></p>
+<p>Please confirm your password, bank details and card number to restore access.</p>
+</body></html>

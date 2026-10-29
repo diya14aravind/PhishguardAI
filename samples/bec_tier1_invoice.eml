@@ -1,0 +1,10 @@
+From: Anil Mehta <anil.mehta@northwindtraders.in>
+To: accounts@northwindtraders.in
+Subject: Update to vendor bank details
+Date: Fri, 9 Oct 2026 11:05:00 +0530
+Authentication-Results: mx.google.com; spf=pass smtp.mailfrom=northwindtraders.in; dkim=pass header.d=northwindtraders.in; dmarc=pass header.from=northwindtraders.in
+
+Hi,
+
+Please update the bank account details for our vendor before the end of today. The new account number
+will be shared by the finance team. Make the payment as soon as possible and keep this confidential until it is done.
