@@ -1,0 +1,13 @@
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+pandas
+numpy
+joblib
+fastapi
+uvicorn
+python-multipart
+# Only needed for the optional transformer upgrade (train_transformer.py)
+# torch
+# transformers>=4.46
+# datasets
+# accelerate
